@@ -1,0 +1,12 @@
+[
+    {
+        "_id": "1",
+        "title": "Acer Aspire 5 A514-52G",
+        "src": "https://d2pa5gi5n2e1an.cloudfront.net/global/images/product/laptops/Acer_Aspire_VX5/Acer_Aspire_VX5_L_1.jpg",
+        "description": "Stok 13",
+        "content": "Processor : Intel Core i5-8265 Memory : 4 GB DDR4, Storage: 1 TB HDD Graphic : NVIDIA GeForce® MX250 Operating System : Windows 10",
+        "price": 618,
+        "colors": [ "black","grey"],
+        "count": 2
+    }
+]

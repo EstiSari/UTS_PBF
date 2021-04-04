@@ -1,0 +1,54 @@
+[
+    {
+        "_id": "1",
+        "title": "Acer Aspire 5 A514-52G",
+        "src": "https://d2pa5gi5n2e1an.cloudfront.net/global/images/product/laptops/Acer_Aspire_VX5/Acer_Aspire_VX5_L_1.jpg",
+        "description": "Stok 13",
+        "content": "Processor : Intel Core i5-8265 Memory : 4 GB DDR4, Storage: 1 TB HDD Graphic : NVIDIA GeForce® MX250 Operating System : Windows 10",
+        "price": 6000000
+    },
+    {
+        "_id": "2",
+        "title": "Acer Aspire A311-31",
+        "src": "https://d2pa5gi5n2e1an.cloudfront.net/global/images/product/laptops/Acer_Aspire_3_A314_31/Acer_Aspire_3_A314_31_L_1.jpg",
+        "description": "Stok 10",
+        "content": "Display : 11.6″ HD 1366×768, Acer ComfyView™ LED-backlit TFT LCD Graphic Card : Intel UHD Graphics 600 RAM : 4GB DDR4 Sistem Operasi : Windows 10 Home",
+        "price": 6200000
+    },
+    {
+        "_id": "3",
+        "title": "Acer E5-476-36UB",
+        "src": "https://d2pa5gi5n2e1an.cloudfront.net/global/images/product/laptops/Acer_Aspire_5_A514_52G/Acer_Aspire_5_A514_52G_L_1.jpg",
+        "description": "Stok 5",
+        "content": "Processor : Intel Core i3-8130U CPU@ 2.20 Ghz ( 2 Cores 4 Threads ) Layar : 14,0 HD Acer CineCrystal LCD (1366x768) VGA : Intel UHD Graphics 620, Dedicated 128 MB, Shared 1986 MB, Up to 2114 MB",
+        "price": 6400000
+    },
+    {
+        "_id": "4",
+        "title": "Acer Predator Nitro 7",
+        "src": "https://static.toiimg.com/photo/67430103/Acer-Nitro-5-AN515-41-UNQ2USI001-Laptop-AMD-Quad-Core-FX8-GB1-TBWindows-104-GB.jpg",
+        "description": "Stok 15",
+        "content": "Intel Core i7 1 TB HDD + 256 GB SSD",
+        "price": 8000000
+    },
+    {
+        "_id": "5",
+        "title": "Acer Nitro 5",
+        "src": "https://s3.bukalapak.com/img/87726836201/large/data.png",
+        "description": "Stok 10",
+        "content": "Layar : 15.6 Inch FHD LED IPS. 8GB DDR4 , 256GB SSD +1TB. Sistem Operasi : Win10 Home",
+        "price": 9000000,
+        "colors": ["red", "black"],
+        "count": 1
+    },
+    {
+        "_id": "6",
+        "title": "Acer Predator Triton 300",
+        "src": "https://www.static-src.com/wcsstore/Indraprastha/images/catalog/full//96/MTA-2369931/acer_acer-aspire-3-a315-41g-3wkg-black----amd-ryzen-3-2200u-4gb-1tb-amd-535-2gb-15-6--hd-no-dvd-rw-windows-10-_full03.jpg",
+        "description": "Stok 12",
+        "content": "Intel Core i5-9300H (8MB cache, 2.4 GHz up to 4.1 GHz, Quad-core ) Intel Core i7-9750H (12MB cache, 2.5 GHz up to 4.5 GHz, Hexa-core)",
+        "price": 9200000,
+        "colors": ["black"],
+        "count": 1
+    }
+]
